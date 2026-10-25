@@ -3,7 +3,7 @@
 ## Identificação do projeto
 - **Curso:** [Ciência da Computação]
 - **Turma:** [Noite]
-- **Integrantes:** [Anita de Oliveira Ries; ]
+- **Integrantes:** [Anita de Oliveira Ries; Sergio Rodrigo de Souza Filho]
 
 ## Resumo
 O Gerenciador de Tarefas e Estudos é uma API desenvolvida em C# para auxiliar na organização de disciplinas, atividades acadêmicas e sessões de estudo. O sistema permite cadastrar e acompanhar tarefas, controlar prazos, identificar atividades pendentes ou atrasadas e registrar o tempo dedicado a cada tarefa. Os dados são armazenados em SQLite, com acesso realizado por meio do Entity Framework Core.
