@@ -79,10 +79,3 @@ Para registrar uma sessão de estudo em `/api/sessoes-estudo`:
 }
 ```
 
-## Repositório
-Adicione aqui o link do repositório GitHub do projeto.
-
-## Uso de IA
-- **Ferramenta utilizada:** ChatGPT.
-- **Forma de uso:** auxílio no planejamento da estrutura, elaboração inicial da documentação README e apoio na implementação do código.
-- **Revisões da equipe:** Realizamos posteriormente os testes de inserção, consulta e exclusão das tarefas e disciplinas, como forma de validar o funcionamento do programa.
